@@ -1,4 +1,4 @@
-export function metodo1(num1, num2) {
+export function metodo(num1, num2) {
   return num1 * num2;
 }
 
