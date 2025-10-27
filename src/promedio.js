@@ -7,4 +7,4 @@ for (let i = 0; i < notasEntrada.length; i++) {
 }
 
 const promedio = sumaNotas / notasEntrada.length;
-console.log("Promedio Total: ",promedio); 
+console.log("Promedio Total: ", promedio);
