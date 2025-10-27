@@ -1,4 +1,3 @@
-// promedio de notas
 const notasEntrada11 = [85, 90, 78, 92];
 let sumaNotas11 = 0;
 
