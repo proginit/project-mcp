@@ -1,4 +1,4 @@
-export function multiplica11(num1,num2){
+export function multiplica11prueba(num1,num2){
     return num1*num2
 }
 
